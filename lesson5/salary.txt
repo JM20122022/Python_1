@@ -1,0 +1,12 @@
+Jason 13698.00
+Thompson 15897.00
+VanDyck 15423.00
+Tim 53698.11
+Pete 65897.11
+VanDyck2 95423.11
+Jason2 53698.22
+Thompson3 65897.22
+VanDyck4 95423.22
+Jason7 53698.33
+Thompson9 65897.44
+VanDyck12 95423.15
